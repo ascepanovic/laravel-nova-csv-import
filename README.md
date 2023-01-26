@@ -26,7 +26,7 @@ Thank you 🙏
 Install via Composer:
 
 ```bash
-composer require simonhamp/laravel-nova-csv-import --with-all-dependencies
+composer require ascepanovic/laravel-nova-csv-import --with-all-dependencies
 ```
 
 Once installed, you must register the component in your app's `NovaServiceProvider`
